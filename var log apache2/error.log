@@ -1,0 +1,66 @@
+[Wed Apr 08 08:28:05.132239 2020] [mpm_event:notice] [pid 10951:tid 139630078467008] AH00489: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Apr 08 08:28:05.132320 2020] [core:notice] [pid 10951:tid 139630078467008] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 08 08:28:21.109168 2020] [mpm_event:notice] [pid 10951:tid 139630078467008] AH00491: caught SIGTERM, shutting down
+[Wed Apr 08 08:28:21.173841 2020] [mpm_prefork:notice] [pid 13856] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Apr 08 08:28:21.173938 2020] [core:notice] [pid 13856] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 08 08:28:21.533913 2020] [mpm_prefork:notice] [pid 13856] AH00169: caught SIGTERM, shutting down
+[Wed Apr 08 08:28:21.634140 2020] [mpm_prefork:notice] [pid 13938] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Apr 08 08:28:21.634195 2020] [core:notice] [pid 13938] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 08 09:03:23.417889 2020] [mpm_prefork:notice] [pid 13938] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Apr 08 09:03:23.455783 2020] [mpm_prefork:notice] [pid 13938] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Apr 08 09:03:23.455791 2020] [core:notice] [pid 13938] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 08 11:11:51.251844 2020] [mpm_prefork:notice] [pid 13938] AH00169: caught SIGTERM, shutting down
+[Thu Apr 09 04:23:59.217491 2020] [mpm_prefork:notice] [pid 948] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Thu Apr 09 04:23:59.233346 2020] [core:notice] [pid 948] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 09 05:42:25.317647 2020] [mpm_prefork:notice] [pid 948] AH00169: caught SIGTERM, shutting down
+[Thu Apr 09 14:30:05.803263 2020] [ssl:warn] [pid 2915] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 14:30:05.829027 2020] [ssl:warn] [pid 2921] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 14:30:05.830495 2020] [mpm_prefork:notice] [pid 2921] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Apr 09 14:30:05.830508 2020] [core:notice] [pid 2921] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 09 14:30:12.484115 2020] [mpm_prefork:notice] [pid 2921] AH00169: caught SIGTERM, shutting down
+[Thu Apr 09 14:30:12.540862 2020] [ssl:warn] [pid 2957] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 14:30:12.562207 2020] [ssl:warn] [pid 2960] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 14:30:12.563680 2020] [mpm_prefork:notice] [pid 2960] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Apr 09 14:30:12.563693 2020] [core:notice] [pid 2960] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 09 14:30:41.573302 2020] [mpm_prefork:notice] [pid 2960] AH00169: caught SIGTERM, shutting down
+[Thu Apr 09 14:30:41.630976 2020] [ssl:warn] [pid 3016] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 14:30:41.651846 2020] [ssl:warn] [pid 3020] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 14:30:41.653279 2020] [mpm_prefork:notice] [pid 3020] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Apr 09 14:30:41.653291 2020] [core:notice] [pid 3020] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 09 16:33:35.188049 2020] [mpm_prefork:notice] [pid 3020] AH00169: caught SIGTERM, shutting down
+[Thu Apr 09 16:33:39.475811 2020] [ssl:warn] [pid 3870] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 16:33:39.497565 2020] [ssl:warn] [pid 3885] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 16:33:39.499022 2020] [mpm_prefork:notice] [pid 3885] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Apr 09 16:33:39.499034 2020] [core:notice] [pid 3885] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 09 16:36:37.357194 2020] [mpm_prefork:notice] [pid 3885] AH00169: caught SIGTERM, shutting down
+[Thu Apr 09 16:44:15.589442 2020] [ssl:warn] [pid 4112] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 16:44:15.611480 2020] [ssl:warn] [pid 4116] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 16:44:15.612960 2020] [mpm_prefork:notice] [pid 4116] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Apr 09 16:44:15.612973 2020] [core:notice] [pid 4116] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 09 18:37:29.559334 2020] [mpm_prefork:notice] [pid 4116] AH00169: caught SIGTERM, shutting down
+[Thu Apr 09 19:03:29.236268 2020] [ssl:warn] [pid 922] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 19:03:29.338927 2020] [ssl:warn] [pid 964] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 09 19:03:29.340610 2020] [mpm_prefork:notice] [pid 964] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Apr 09 19:03:29.340630 2020] [core:notice] [pid 964] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 09 19:08:30.123405 2020] [mpm_prefork:notice] [pid 964] AH00169: caught SIGTERM, shutting down
+[Fri Apr 10 08:10:17.098251 2020] [ssl:warn] [pid 927] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:10:17.231927 2020] [ssl:warn] [pid 972] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:10:17.240718 2020] [mpm_prefork:notice] [pid 972] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Apr 10 08:10:17.240738 2020] [core:notice] [pid 972] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 10 08:13:43.748082 2020] [mpm_prefork:notice] [pid 972] AH00169: caught SIGTERM, shutting down
+[Fri Apr 10 08:13:58.646204 2020] [ssl:warn] [pid 1956] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:13:58.668417 2020] [ssl:warn] [pid 1969] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:13:58.669892 2020] [mpm_prefork:notice] [pid 1969] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Apr 10 08:13:58.669905 2020] [core:notice] [pid 1969] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 10 08:15:27.244079 2020] [mpm_prefork:notice] [pid 1969] AH00169: caught SIGTERM, shutting down
+[Fri Apr 10 08:15:28.707695 2020] [ssl:warn] [pid 2164] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:15:28.728798 2020] [ssl:warn] [pid 2177] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:15:28.730398 2020] [mpm_prefork:notice] [pid 2177] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Apr 10 08:15:28.730418 2020] [core:notice] [pid 2177] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 10 08:22:31.724231 2020] [mpm_prefork:notice] [pid 2177] AH00169: caught SIGTERM, shutting down
+[Fri Apr 10 08:23:38.619897 2020] [ssl:warn] [pid 854] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:23:38.784344 2020] [ssl:warn] [pid 860] AH01909: 127.0.1.1:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 10 08:23:38.799117 2020] [mpm_prefork:notice] [pid 860] AH00163: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Apr 10 08:23:38.799138 2020] [core:notice] [pid 860] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 10 08:24:47.876952 2020] [mpm_prefork:notice] [pid 860] AH00169: caught SIGTERM, shutting down
